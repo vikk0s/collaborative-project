@@ -1,12 +1,10 @@
-// src/components/Contact.js
-
 function Contact() {
-    return (
-      <div>
-        <h2>Contact Page</h2>
-        <p>Reach out to us for inquiries.</p>
-      </div>
-    );
-  }
-  
-  export default Contact;
+  return (
+    <div>
+      <h1>Contact Page</h1>
+      <p>Updated Contacts.</p>
+    </div>
+  );
+}
+
+export default Contact;
